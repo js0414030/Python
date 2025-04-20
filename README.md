@@ -108,3 +108,8 @@ python script.py
 
 💡 **Now, Python is fully set up in VS Code with all issues fixed!** 🚀
 
+PS:
+## ❗ Common Errors & Fixes
+- `'python' is not recognized as an internal or external command` → Add Python to PATH
+- `input() not working` → Make sure "Run in Terminal" is enabled in Code Runner
+
